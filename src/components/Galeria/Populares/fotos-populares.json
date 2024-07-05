@@ -1,0 +1,28 @@
+[
+    {
+      "path": "/img/populares/foto-1.png",
+      "alt": "Acampando",
+      "id": 1
+    },
+    {
+      "path": "/img/populares/foto-2.png",
+      "alt": "Cine En Las Alturas",
+      "id": 2
+    },
+    {
+      "path": "/img/populares/foto-3.png",
+      "alt": "Amor",
+      "id": 3
+    },
+    {
+      "path": "/img/populares/foto-4.png",
+      "alt": "Tu Niño Enamorado",
+      "id": 4
+    },
+    {
+      "path": "/img/populares/foto-5.png",
+      "alt": "Pequeños Secretos",
+      "id": 5
+    }
+  ]
+  

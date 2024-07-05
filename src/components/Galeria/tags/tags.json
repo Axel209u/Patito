@@ -1,0 +1,23 @@
+
+[ 
+    {
+        "id": 0,
+        "titulo": "Todas"
+    },
+    {
+        "id": 1,
+        "titulo": "Momentos"
+    },
+    {
+        "id": 2,
+        "titulo": "Diversion"
+    },
+    {
+        "id": 3,
+        "titulo": "Romance"
+    },
+    {
+        "id": 4,
+        "titulo": "Nosotros"
+    }
+]
